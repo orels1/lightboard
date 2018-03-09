@@ -1,6 +1,7 @@
-# lightboard
-
-> A dashboard for smart lights
+<h1 align="center">lightboard ⚡</h1>
+<p align="center">
+  <strong>A dashboard for smart lights</strong>
+</p>
 
 ## Build Setup
 
