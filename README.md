@@ -3,6 +3,8 @@
   <strong>A dashboard for smart lights</strong>
 </p>
 
+![screenshot](https://i.imgur.com/54ZtpT8.png)
+
 ## Build Setup
 
 ``` bash
